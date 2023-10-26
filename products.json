@@ -1,0 +1,171 @@
+[
+  {
+    "id": "techserialnoa",
+    "name": "iPhone 15",
+    "company": "apple",
+    "price": 6000000,
+    "colors": [
+      "#ff0000",
+      "#000000",
+      "#CDD0D0"
+    ],
+    "image": "https://images.pexels.com/photos/18525573/pexels-photo-18525573/free-photo-of-iphone-15-pro-max-box-in-natural-titanium-color-mention-zana_qaradaghy-on-instagram-while-use-this-photo-follow-on-instagram-zana_qaradaghy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "featured": true
+  },
+  {
+    "id": "techserialnob",
+    "name": "Samsung S22 Ultra",
+    "company": "samsung",
+    "price": 5000000,
+    "colors": [
+      "#000",
+      "#22D3EF"
+    ],
+    "image": "https://images.pexels.com/photos/15493878/pexels-photo-15493878/free-photo-of-hands-on-samsung-galaxy-s23-ultra-5g-green-color-mention-zana_qaradaghy-on-instagram-while-use-this-photo-follow-on-instagram-zana_qaradaghy.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "shipping": true
+  },
+  {
+    "id": "techserialnoc",
+    "name": "Dell XPS 13",
+    "company": "dell",
+    "price": 129000,
+    "colors": [
+      "#22D3EF",
+      "#CDD0D0"
+    ],
+    "image": "https://images.pexels.com/photos/1266982/pexels-photo-1266982.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop"
+  },
+  {
+    "id": "techserialnod",
+    "name": "Motorola Razr 40 ultra",
+    "company": "motorola",
+    "price": 12599,
+    "colors": [
+      "#000",
+      "#000000",
+      "#CDD0D0"
+    ],
+    "image": "https://m.media-amazon.com/images/I/617WN7I3E4L._SL1200_.jpg",
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "shipping": true
+  },
+  {
+    "id": "techserialnoe",
+    "name": "Macbook Pro",
+    "company": "apple",
+    "price": 145000,
+    "colors": [
+      "#000",
+      "#CDD0D0"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61aUBxqc5PL._SL1500_.jpg",
+    "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop",
+    "shipping": true
+  },
+  {
+    "id": "techserialnof",
+    "name": "iMac",
+    "company": "apple",
+    "price": 167000,
+    "colors": [
+      "#000000",
+      "#CDD0D0"
+    ],
+    "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "computer",
+    "shipping": true
+  },
+  {
+    "id": "techserialnog",
+    "name": "Asus TUF",
+    "company": "asus",
+    "price": 85999,
+    "colors": [
+      "#CDD0D0",
+      "#000"
+    ],
+    "image": "https://m.media-amazon.com/images/I/91zVSkGGZbS._SL1500_.jpg",
+    "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop",
+    "shipping": true
+  },
+  {
+    "id": "techserialnoh",
+    "name": "Accessories",
+    "price": 1099999,
+    "company": "lenovo",
+    "colors": [
+      "#000",
+      "#CDD0D0"
+    ],
+    "image": "https://images.pexels.com/photos/3178938/pexels-photo-3178938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "accessories",
+    "featured": true,
+    "shipping": true
+  },
+  {
+    "id": "techserialnoi",
+    "name": "Apple Watch series 9",
+    "price": 39999,
+    "company": "apple",
+    "colors": [
+      "#000000"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71OSc6IfGcL._SL1500_.jpg",
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "shipping": true
+  },
+  {
+    "id": "techserialnoj",
+    "name": "Lightening to USB Adapter",
+    "company": "apple",
+    "price": 300099,
+    "colors": [
+      "#ff0000",
+      "#22D3EF",
+      "#000000"
+    ],
+    "image": "https://m.media-amazon.com/images/I/51mK8d+8dCL._SL1500_.jpg",
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "accessories"
+  },
+  {
+    "id": "techserialnok",
+    "name": "Rolex premium",
+    "company": "rolex",
+    "price": 26999,
+    "colors": [
+      "#000000",
+      "#CDD0D0"
+    ],
+    "image": "https://m.media-amazon.com/images/I/61gGGV2XPyL._UL1001_.jpg",
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch"
+  },
+  {
+    "id": "techserialnol",
+    "name": "Galaxy Watch6",
+    "price": 31999,
+    "company": "samsung",
+    "colors": [
+      "#22D3EF",
+      "#ff0000",
+      "#000000"
+    ],
+    "image": "https://m.media-amazon.com/images/I/71SSpcX7s5L._SL1500_.jpg",
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "featured": true
+  }
+]
